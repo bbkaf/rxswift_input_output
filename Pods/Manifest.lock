@@ -1,0 +1,59 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Differentiator (3.1.0)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - Moya/RxSwift (13.0.1):
+    - Moya/Core
+    - RxSwift (~> 4.0)
+  - ObjectMapper (3.5.1)
+  - Result (4.1.0)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxDataSources (3.1.0):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxGesture (2.2.0):
+    - RxCocoa (~> 4.5)
+    - RxSwift (~> 4.5)
+  - RxSwift (4.5.0)
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - Moya/RxSwift
+  - ObjectMapper
+  - RxCocoa
+  - RxDataSources
+  - RxGesture
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Differentiator
+    - Moya
+    - ObjectMapper
+    - Result
+    - RxCocoa
+    - RxDataSources
+    - RxGesture
+    - RxSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Differentiator: be49ca3408f0ecfc761e4c7763d20c62be01b9ad
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxDataSources: a843bad90c29817f5923ec8163f4af2de084ceb3
+  RxGesture: c1b7bf17166b0ef9d642a9510f8bac5785f18990
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: c032882ad5419c26482f66bd2d9c0744780fb5d8
+
+COCOAPODS: 1.9.0
