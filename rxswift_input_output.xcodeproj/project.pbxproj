@@ -15,6 +15,7 @@
 		DA2CF6BB24109C41007976FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA2CF6B924109C41007976FD /* LaunchScreen.storyboard */; };
 		DA2CF6C324109FA4007976FD /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2CF6C224109FA4007976FD /* ViewModel.swift */; };
 		DA2CF6C52410A71E007976FD /* ActivityIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2CF6C42410A71E007976FD /* ActivityIndicator.swift */; };
+		DAE70378242B514C0037419C /* RxSubjectsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAE70377242B514C0037419C /* RxSubjectsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		DA2CF6BC24109C41007976FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DA2CF6C224109FA4007976FD /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 		DA2CF6C42410A71E007976FD /* ActivityIndicator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityIndicator.swift; sourceTree = "<group>"; };
+		DAE70377242B514C0037419C /* RxSubjectsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RxSubjectsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				DA2CF6C224109FA4007976FD /* ViewModel.swift */,
 				DA2CF6C42410A71E007976FD /* ActivityIndicator.swift */,
 				DA2CF6B424109C40007976FD /* Main.storyboard */,
+				DAE70377242B514C0037419C /* RxSubjectsViewController.swift */,
 				DA2CF6B724109C41007976FD /* Assets.xcassets */,
 				DA2CF6B924109C41007976FD /* LaunchScreen.storyboard */,
 				DA2CF6BC24109C41007976FD /* Info.plist */,
@@ -212,6 +215,7 @@
 				DA2CF6C52410A71E007976FD /* ActivityIndicator.swift in Sources */,
 				DA2CF6B324109C40007976FD /* ViewController.swift in Sources */,
 				DA2CF6C324109FA4007976FD /* ViewModel.swift in Sources */,
+				DAE70378242B514C0037419C /* RxSubjectsViewController.swift in Sources */,
 				DA2CF6B124109C40007976FD /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
